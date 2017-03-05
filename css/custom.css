@@ -1,0 +1,64 @@
+h1 {
+	font-size: 70;
+	text-align: center;
+	color: #008525; font-family: 'Lobster', cursive; font-weight: bolder; 
+	line-height: 48px; margin: 0 0 18px; text-shadow: 3px 0 0 #fff; 
+}
+
+header{
+	background: url(../img/corn.jpg);
+	height: 100vh;
+	background-size: cover;
+
+}
+.padding-title{
+	padding-top:400px;
+}
+.aboutfont {
+	font-size: 11;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.foodfont {
+	text-shadow: 2px 2px 4px #000000;
+	font-size: 14;
+	font-weight: bolder;
+}
+.foodtitle {
+	font-size: 18;
+	text-shadow: 2px 2px 4px #000000;
+}
+.boo {
+  position: relative;
+  width: 30em; min-height: 10em;
+  background: rgba(0,0,0,0) url(img/noma.jpg);
+  transition: background-color 1s;
+}
+.boo:hover {
+  background-color: rgba(0,0,0,.5);
+}
+.boo:before {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background-color: inherit;
+  content: ' ';
+}
+.card-text {
+    color: rgba(255,255,255,0.8)!important;
+}
+.iconmove {
+	text-align: center;
+}
+.footwidth {
+	width: 69%;
+}
+.icon {
+	color:rgb(0,22,255);
+	text-shadow: 1px 2px #40403F;
+}
+
+.title { 
+	background-image: url(http://typespiration.com/wp-content/themes/typespiration/images/quote.png); 
+	background-position: 10px 10%;
+	background-repeat: no-repeat no-repeat; 
+	padding: 150px 0; 
+}
